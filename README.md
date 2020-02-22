@@ -23,13 +23,13 @@ Some visual examples:
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="">
-    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="200"/></a>
+    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="300"/></a>
 </td>
 <td style="text-align: center">
 <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400"/>
 </td>
   <td style="text-align: center">
-<img src="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/README_ggplots_5-1.png" width="200"/>
+<img src="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/README_ggplots_5-1.png" width="300"/>
 </td>
 </tr></table></div>
 
