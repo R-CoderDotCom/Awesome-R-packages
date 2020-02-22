@@ -66,7 +66,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [IDE](#IDE) 
 - [Graphics](#Graphics)
 - [Finance](#Finance)
-- [Functional data]()
+- [Functional data](#Functional-data)
 - [Optimization]()
 - [Regression]()
 - [Fun stuff](#Fun-stuff)
@@ -104,6 +104,10 @@ Ok, this are no packages, but you also need one.
 - [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/). Econometric Tools for Performance and Risk Analysis.
 - [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
 - [zoo](https://cran.r-project.org/web/packages/zoo/). S3 Infrastructure for Regular and Irregular Time Series.
+
+# Functional-data
+- [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
+- [fda.usc](https://cran.r-project.org/web/packages/fda.usc/). Routines for exploratory and descriptive analysis of functional data such as depth measurements, atypical curves detection, regression models, supervised classification, unsupervised classification and functional analysis of variance.
 
 # Graphics
 
