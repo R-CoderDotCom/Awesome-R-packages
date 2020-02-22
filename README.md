@@ -28,22 +28,22 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 
 # IDE
 
--[RStudio](https://rstudio.com/products/rstudio/download/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
--[R Commander](https://www.rcommander.com/) - A package that provides a basic graphical user interface.
--RKWard - An extensible IDE/GUI for R.
--Emacs + ESS - Emacs Speaks Statistics is an add-on package for emacs text editors.
--Sublime Text + R-Box - Add-on package for Sublime Text 2/3.
--TextMate + r.tmblundle - Add-on package for TextMate 1/2.
--StatET - An Eclipse based IDE for R.
--Microsoft R - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
--IRkernel heart - R kernel for Jupyter.
--Deducer - A Menu driven data analysis GUI with a spreadsheet like data editor.
--Radiant - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
--Vim-R - Vim plugin for R.
--Nvim-R - Neovim plugin for R.
--Jamovi and JASP - Desktop software for both Bayesian and Frequentist methods, using a UI familiar to SPSS users.
--Bio7 - An IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
--RTVS - R Tools for Visual Studio.
--radian (formerly rtichoke) - An alternative console for the R program with multiline editing and rich syntax highlight.
+- [RStudio](https://rstudio.com/products/rstudio/download/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+- [R Commander](https://www.rcommander.com/) - A package that provides a basic graphical user interface.
+- RKWard - An extensible IDE/GUI for R.
+- Emacs + ESS - Emacs Speaks Statistics is an add-on package for emacs text editors.
+- Sublime Text + R-Box - Add-on package for Sublime Text 2/3.
+- TextMate + r.tmblundle - Add-on package for TextMate 1/2.
+- StatET - An Eclipse based IDE for R.
+- Microsoft R - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
+- IRkernel heart - R kernel for Jupyter.
+- Deducer - A Menu driven data analysis GUI with a spreadsheet like data editor.
+- Radiant - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
+- Vim-R - Vim plugin for R.
+- Nvim-R - Neovim plugin for R.
+- Jamovi and JASP - Desktop software for both Bayesian and Frequentist methods, using a UI familiar to SPSS users.
+- Bio7 - An IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
+- RTVS - R Tools for Visual Studio.
+- radian (formerly rtichoke) - An alternative console for the R program with multiline editing and rich syntax highlight.
 
 
