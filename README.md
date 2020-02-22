@@ -65,7 +65,7 @@ A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most 
 - [Fun stuff](#Fun-stuff)
 - [Graphics]()
 
-
+More soon...
 
 # IDE
 
@@ -99,3 +99,4 @@ A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most 
 - [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
 - [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
 
+More soon...
