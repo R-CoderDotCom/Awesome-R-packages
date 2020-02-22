@@ -45,7 +45,7 @@ Some visual examples:
 
 - [IDE](#IDE)
 - [Functional data]()
-- [Fun stuff](#Fun stuff)
+- [Fun stuff](#Fun-stuff)
 - [Graphics]()
 
 
