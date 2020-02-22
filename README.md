@@ -159,6 +159,8 @@ Ok, this are no packages, but you also need one.
 - [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
 - [pushoverr](https://cran.r-project.org/web/packages/pushoverr/index.html). Send push notifications from R to mobile devices or the desktop. These notifications can display job status, results, scraped web data, or any other text or numeric data.
 - [BRRR](https://github.com/brooke-watson/BRRR). Let Gucci Mane tell you when your script is done.
+- [meme](https://cran.r-project.org/web/packages/meme/index.html). Create memes in R.
+- [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html). Plotting ggplot2 Graphics in an XKCD Style.
 
 More soon...
 
