@@ -20,9 +20,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 
 <strong>Some visual examples of what R can do:</strong>
 
-<div style="text-align: center">
-  <table>
-    <tr>
+<div style="text-align: center"><table><tr>
   
   <td style="text-align: center">
   <a href="https://github.com/dkahle/ggmap">
@@ -39,9 +37,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
     <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/README_ggplots_5-1.png" width="400"/></a>
   </td>
   
-    </tr>
-  </table>
-</div>
+</tr></table></div>
 
 
 .row {
