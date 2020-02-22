@@ -102,8 +102,8 @@ Ok, this are no packages, but you also need one.
 # Misc
 - [installr](https://cran.r-project.org/web/packages/installr/index.html). Automate the updating of R and install new software.
 - [plumber](https://cran.r-project.org/web/packages/plumber/index.html). An API Generator for R.
-- [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). install package versions from a specific date in the past.
-- [mailR](https://cran.r-project.org/web/packages/mailR/). A Utility to Send Emails from R.
+- [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). Install package versions from a specific date in the past.
+- [mailR](https://cran.r-project.org/web/packages/mailR/). A utility to send emails from R.
 
 
 # Graphics
