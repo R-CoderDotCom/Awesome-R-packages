@@ -48,7 +48,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
   
   <td style="text-align: center">
    <a href="https://github.com/tylermorganwall/rayshader">
-    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400"/></a>
+    <img src="https://raw.githubusercontent.com/amrrs/animated_bar_charts_in_R/master/gganim.gif" width="400"/></a>
   </td>
 
   <td style="text-align: center">
