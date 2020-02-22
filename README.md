@@ -98,21 +98,6 @@ Ok, this are no packages, but you also need one.
 - [radian (formerly rtichoke)](). An alternative console for the R program with multiline editing and rich syntax highlight.
 
 
-# Finance
-- [quantmod]()
-- [blotter](https://r-forge.r-project.org/scm/viewvc.php/pkg/blotter/?root=blotter). 
-- [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/). Econometric Tools for Performance and Risk Analysis.
-- [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
-- [zoo](https://cran.r-project.org/web/packages/zoo/). S3 Infrastructure for Regular and Irregular Time Series.
-
-# Functional-data
-- [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
-- [fda.usc](https://cran.r-project.org/web/packages/fda.usc/). Routines for exploratory and descriptive analysis of functional data such as depth measurements, atypical curves detection, regression models, supervised classification, unsupervised classification and functional analysis of variance.
-- [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). Provides implementation of various methods of Functional Data Analysis (FDA) and Empirical Dynamics.
-- [funData](https://cran.r-project.org/web/packages/funData/index.html). S4 classes for univariate and multivariate functional data with utility functions.
-- [rainbow](https://cran.r-project.org/web/packages/rainbow/index.html). Bagplots, Boxplots and Rainbow Plots for Functional Data.
-- [roahd](https://cran.r-project.org/web/packages/roahd/index.html). A collection of methods for the robust analysis of univariate and multivariate functional data, possibly in high-dimensional cases, and hence with attention to computational efficiency and simplicity of use.
-
 # Graphics
 
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
@@ -127,6 +112,21 @@ Ok, this are no packages, but you also need one.
 - [RGL](https://cran.r-project.org/web/packages/rgl/). Provides medium to high level functions for 3D interactive graphics, including functions modelled on base graphics (plot3d(), etc.) as well as functions for constructing representations of geometric objects.
 - [dygraphs](https://cran.r-project.org/web/packages/dygraphs/). An R interface to the 'dygraphs' JavaScript charting library.
 
+
+# Finance
+- [quantmod]()
+- [blotter](https://r-forge.r-project.org/scm/viewvc.php/pkg/blotter/?root=blotter). 
+- [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/). Econometric Tools for Performance and Risk Analysis.
+- [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
+- [zoo](https://cran.r-project.org/web/packages/zoo/). S3 Infrastructure for Regular and Irregular Time Series.
+
+# Functional-data
+- [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
+- [fda.usc](https://cran.r-project.org/web/packages/fda.usc/). Routines for exploratory and descriptive analysis of functional data such as depth measurements, atypical curves detection, regression models, supervised classification, unsupervised classification and functional analysis of variance.
+- [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). Provides implementation of various methods of Functional Data Analysis (FDA) and Empirical Dynamics.
+- [funData](https://cran.r-project.org/web/packages/funData/index.html). S4 classes for univariate and multivariate functional data with utility functions.
+- [rainbow](https://cran.r-project.org/web/packages/rainbow/index.html). Bagplots, Boxplots and Rainbow Plots for Functional Data.
+- [roahd](https://cran.r-project.org/web/packages/roahd/index.html). A collection of methods for the robust analysis of univariate and multivariate functional data, possibly in high-dimensional cases, and hence with attention to computational efficiency and simplicity of use.
 
 
 # Fun stuff
