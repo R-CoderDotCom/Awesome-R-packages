@@ -42,8 +42,8 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 <div style="text-align: center"><table><tr>
   
   <td style="text-align: center">
-  <a href="https://github.com/amrrs/animated_bar_charts_in_R">
-    <img src="https://raw.githubusercontent.com/amrrs/animated_bar_charts_in_R/master/gganim.gif" width="400"/></a>
+  <a href="https://github.com/djnavarro/brownianbridge">
+    <img src="https://raw.githubusercontent.com/djnavarro/brownianbridge/master/bridge5_shadowwake/shadow_wake_files/figure-markdown_github/wake8-1.gif" width="400"/></a>
   </td>
   
   <td style="text-align: center">
