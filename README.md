@@ -39,7 +39,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
   
 </tr></table></div>
 
-
+<style>
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -74,6 +74,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
     max-width: 100%;
   }
 }
+</style>
 
 <div class="row">
   <div class="column">
