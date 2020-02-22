@@ -63,7 +63,7 @@ A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most 
 - [IDE](#IDE)
 - [Functional data]()
 - [Fun stuff](#Fun-stuff)
-- [Graphics]()
+- [Graphics](#Graphics)
 
 More soon...
 
@@ -98,5 +98,18 @@ More soon...
 - [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
 - [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
 - [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
+
+
+# Graphics
+
+- [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
+- [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html). An implementation of an interactive grammar of graphics, taking the best parts of 'ggplot2', combining them with the reactive framework of 'shiny' and drawing web graphics using 'vega'.
+- [Lattice](https://cran.r-project.org/web/packages/lattice/index.html). Trellis Graphics for R.
+- [highcharter](https://cran.r-project.org/web/packages/highcharter). A wrapper for the 'Highcharts' library including shortcut functions to plot R objects.
+- [Leaflet](https://cran.r-project.org/web/packages/leaflet/). Create and customize interactive maps using the 'Leaflet' JavaScript library and the 'htmlwidgets' package. 
+- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html). Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described [here](http://colorbrewer2.org).
+
+
+## 3d plots
 
 More soon...
