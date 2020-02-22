@@ -108,6 +108,10 @@ Ok, this are no packages, but you also need one.
 # Functional-data
 - [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
 - [fda.usc](https://cran.r-project.org/web/packages/fda.usc/). Routines for exploratory and descriptive analysis of functional data such as depth measurements, atypical curves detection, regression models, supervised classification, unsupervised classification and functional analysis of variance.
+- [fdapace](https://cran.r-project.org/web/packages/fdapace/index.html). Provides implementation of various methods of Functional Data Analysis (FDA) and Empirical Dynamics.
+- [funData](https://cran.r-project.org/web/packages/funData/index.html). S4 classes for univariate and multivariate functional data with utility functions.
+- [rainbow](https://cran.r-project.org/web/packages/rainbow/index.html). Bagplots, Boxplots and Rainbow Plots for Functional Data.
+- [roahd](https://cran.r-project.org/web/packages/roahd/index.html). A collection of methods for the robust analysis of univariate and multivariate functional data, possibly in high-dimensional cases, and hence with attention to computational efficiency and simplicity of use.
 
 # Graphics
 
