@@ -109,6 +109,7 @@ More soon...
 - [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
 - [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
 - [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
+- [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
 
 
 # Graphics
