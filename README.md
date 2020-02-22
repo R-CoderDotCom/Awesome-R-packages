@@ -20,9 +20,20 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 
 Some visual examples:
 
-[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
-[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
-[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="200"/></a>
+</td>
+<td style="text-align: center">
+<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/>
+</td>
+  <td style="text-align: center">
+<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="200"/>
+</td>
+</tr></table></div>
+
+
 
 # Index
 
