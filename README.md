@@ -14,7 +14,7 @@
   </a>
 </p>
 
-A curated list 📄 of awesome 🌟 R packages. These are some of the most relevant packages of the R community.
+A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most relevant packages of the R community.
 
 😍 Is your favourite package missing? 😍  Let me know!🤔
 
