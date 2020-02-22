@@ -117,6 +117,6 @@ More soon...
 - [Plotly](https://cran.r-project.org/web/packages/plotly/). Create interactive web graphics from 'ggplot2' graphs and/or a custom interface to the (MIT-licensed) JavaScript library 'plotly.js' inspired by the grammar of graphics.
 - [sunburstR](https://cran.r-project.org/web/packages/sunburstR/). Make interactive 'd3.js' sequence sunburst diagrams in R with the convenience and infrastructure of an 'htmlwidget'.
 - [r2d3](https://github.com/rstudio/r2d3). Provides a suite of tools for using D3 visualizations with R.
-
+- [RGL](https://cran.r-project.org/web/packages/rgl/). Provides medium to high level functions for 3D interactive graphics, including functions modelled on base graphics (plot3d(), etc.) as well as functions for constructing representations of geometric objects.
 
 More soon...
