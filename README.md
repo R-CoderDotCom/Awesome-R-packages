@@ -33,7 +33,8 @@ Some visual examples:
   </td>
 
   <td style="text-align: center">
-  <img src="https://github.com/dkahle/ggmap" width="400"/>
+  <a href="https://github.com/dkahle/ggmap">
+    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/></a>
   </td>
   
 </tr></table></div>
