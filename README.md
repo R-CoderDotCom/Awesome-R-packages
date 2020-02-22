@@ -22,7 +22,7 @@ Some visual examples:
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="">
+  <a href="https://github.com/dkahle/ggmap">
     <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/></a>
 </td>
 <td style="text-align: center">
