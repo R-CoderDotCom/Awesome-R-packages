@@ -14,6 +14,9 @@
   </a>
 </p>
 
+[R](https://www.r-project.org/) is a language and environment for statistical computing and graphics.
+
+
 A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most relevant packages of the R community.
 
 😍 Is your favourite package missing? 😍  Let me know!🤔
