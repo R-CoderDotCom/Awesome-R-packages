@@ -53,7 +53,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 
   <td style="text-align: center">
   <a href="https://github.com/tylermorganwall/rayshader">
-    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/README_ggplots_5-1.png" width="400"/></a>
+    <img src="https://raw.githubusercontent.com/YinLiLin/R-CMplot/master/Figure/9.jpg" width="400"/></a>
   </td>
   
 </tr></table></div>
@@ -97,5 +97,5 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 - [cowsay](https://github.com/sckott/cowsay). ASCII art animals in R console.
 - [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
 - [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
-
+- [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
 
