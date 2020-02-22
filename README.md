@@ -63,7 +63,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 
 # Index
 
-- [IDE](#IDE)
+- [IDE](#IDE) 
 - [Graphics](#Graphics)
 - [Finance](#Finance)
 - [Functional data]()
@@ -75,6 +75,8 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 More soon...
 
 # IDE
+
+Ok, this are no packages, but you also need one.
 
 - [RStudio](https://rstudio.com/products/rstudio/download/). A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 - [R Commander](https://www.rcommander.com/). A package that provides a basic graphical user interface.
