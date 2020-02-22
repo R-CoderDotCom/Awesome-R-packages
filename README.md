@@ -69,6 +69,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [Functional data](#Functional-data)
 - [Optimization]()
 - [Regression]()
+- [Web scraping](#Web-scraping)
 - [Fun stuff](#Fun-stuff)
 
 
@@ -139,6 +140,12 @@ Ok, this are no packages, but you also need one.
 - [rainbow](https://cran.r-project.org/web/packages/rainbow/index.html). Bagplots, Boxplots and Rainbow Plots for Functional Data.
 - [roahd](https://cran.r-project.org/web/packages/roahd/index.html). A collection of methods for the robust analysis of univariate and multivariate functional data, possibly in high-dimensional cases, and hence with attention to computational efficiency and simplicity of use.
 
+
+# Web scraping
+
+- [rvest](https://cran.r-project.org/web/packages/rvest/). Easily Harvest (Scrape) Web Pages.
+- [XML](https://cran.r-project.org/web/packages/XML/). Many approaches for both reading and creating XML (and HTML) documents (including DTDs), both local and accessible via HTTP or FTP. Also offers access to an 'XPath' "interpreter".
+- [Rselenium](https://cran.r-project.org/web/packages/RSelenium/). Provides a set of R bindings for the 'Selenium 2.0 WebDriver' using the 'JsonWireProtocol' 
 
 # Fun stuff
 
