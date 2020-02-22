@@ -61,6 +61,7 @@ A curated list 📄 of awesome 🌟 R packages 🌟. These are some of the most 
 # Index
 
 - [IDE](#IDE)
+- [Finance](#Finance)
 - [Functional data]()
 - [Fun stuff](#Fun-stuff)
 - [Graphics](#Graphics)
@@ -89,6 +90,11 @@ More soon...
 - [radian (formerly rtichoke)](). An alternative console for the R program with multiline editing and rich syntax highlight.
 
 
+# Finance
+- [quantmod]()
+- [blotter]()
+- [zoo]()
+
 # Fun stuff
 
 - [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
@@ -108,8 +114,7 @@ More soon...
 - [highcharter](https://cran.r-project.org/web/packages/highcharter). A wrapper for the 'Highcharts' library including shortcut functions to plot R objects.
 - [Leaflet](https://cran.r-project.org/web/packages/leaflet/). Create and customize interactive maps using the 'Leaflet' JavaScript library and the 'htmlwidgets' package. 
 - [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html). Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described [here](http://colorbrewer2.org).
+- [Plotly](https://cran.r-project.org/web/packages/plotly/). Create interactive web graphics from 'ggplot2' graphs and/or a custom interface to the (MIT-licensed) JavaScript library 'plotly.js' inspired by the grammar of graphics.
 
-
-## 3d plots
 
 More soon...
