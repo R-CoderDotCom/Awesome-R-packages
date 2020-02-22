@@ -18,6 +18,12 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 
 😍 Is your favourite package missing? 😍  Let me know!🤔
 
+Some visual examples:
+
+[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
+[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
+[<img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" align="center">]
+
 # Index
 
 - [IDE](#IDE)
