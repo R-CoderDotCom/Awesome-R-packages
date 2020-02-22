@@ -64,10 +64,13 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 # Index
 
 - [IDE](#IDE)
+- [Graphics](#Graphics)
 - [Finance](#Finance)
 - [Functional data]()
+- [Optimization]()
+- [Regression]()
 - [Fun stuff](#Fun-stuff)
-- [Graphics](#Graphics)
+
 
 More soon...
 
@@ -100,18 +103,6 @@ More soon...
 - [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
 - [zoo](https://cran.r-project.org/web/packages/zoo/). S3 Infrastructure for Regular and Irregular Time Series.
 
-# Fun stuff
-
-- [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
-- [fun](https://cran.rstudio.com/web/packages/fun/). Collection of R games and other funny stuff, such as the classic Mine sweeper and sliding puzzles.
-- [Fortunes](https://cran.r-project.org/web/packages/fortunes/). A collection of fortunes from the R community.
-- [cowsay](https://github.com/sckott/cowsay). ASCII art animals in R console.
-- [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
-- [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
-- [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
-- [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
-
-
 # Graphics
 
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
@@ -126,4 +117,19 @@ More soon...
 - [RGL](https://cran.r-project.org/web/packages/rgl/). Provides medium to high level functions for 3D interactive graphics, including functions modelled on base graphics (plot3d(), etc.) as well as functions for constructing representations of geometric objects.
 -[dygraphs](https://cran.r-project.org/web/packages/dygraphs/). An R interface to the 'dygraphs' JavaScript charting library.
 
+
+
+# Fun stuff
+
+- [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
+- [fun](https://cran.rstudio.com/web/packages/fun/). Collection of R games and other funny stuff, such as the classic Mine sweeper and sliding puzzles.
+- [Fortunes](https://cran.r-project.org/web/packages/fortunes/). A collection of fortunes from the R community.
+- [cowsay](https://github.com/sckott/cowsay). ASCII art animals in R console.
+- [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
+- [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
+- [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
+- [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
+
+
 More soon...
+
