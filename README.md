@@ -21,16 +21,21 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 Some visual examples:
 
 <div style="text-align: center"><table><tr>
+  
   <td style="text-align: center">
   <a href="https://github.com/dkahle/ggmap">
     <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/></a>
-</td>
-<td style="text-align: center">
-<img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="450"/>
-</td>
+  </td>
+  
   <td style="text-align: center">
-<img src="https://raw.githubusercontent.com/tylermorganwall/rayshader/master/man/figures/README_ggplots_5-1.png" width="400"/>
-</td>
+   <a href="https://github.com/tylermorganwall/rayshader">
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="450"/></a>
+  </td>
+
+  <td style="text-align: center">
+  <img src="https://github.com/dkahle/ggmap" width="400"/>
+  </td>
+  
 </tr></table></div>
 
 
