@@ -19,4 +19,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 😍 Is your favourite package missing? 😍  Let me know!🤔
 
 ## Index
-- 
+
+- Functional data
+- Fun stuff
+- Graphics
