@@ -98,6 +98,11 @@ Ok, this are no packages, but you also need one.
 - [radian (formerly rtichoke)](). An alternative console for the R program with multiline editing and rich syntax highlight.
 
 
+# Misc
+- [installr](https://cran.r-project.org/web/packages/installr/index.html). Automate the updating of R and install new software.
+- [plumber](https://cran.r-project.org/web/packages/plumber/index.html). An API Generator for R.
+
+
 # Graphics
 
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
@@ -139,6 +144,7 @@ Ok, this are no packages, but you also need one.
 - [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
 - [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
 - [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
+- [pushoverr](https://cran.r-project.org/web/packages/pushoverr/index.html). Send push notifications from R to mobile devices or the desktop. These notifications can display job status, results, scraped web data, or any other text or numeric data.
 
 
 More soon...
