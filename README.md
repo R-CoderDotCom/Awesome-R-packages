@@ -104,8 +104,8 @@ Ok, this are no packages, but you also need one.
 - [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). install package versions from a specific date in the past.
 - [mailR](https://cran.r-project.org/web/packages/mailR/). A Utility to Send Emails from R.
 
-# Graphics
 
+# Graphics
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
 - [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html). An implementation of an interactive grammar of graphics, taking the best parts of 'ggplot2', combining them with the reactive framework of 'shiny' and drawing web graphics using 'vega'.
 - [Lattice](https://cran.r-project.org/web/packages/lattice/index.html). Trellis Graphics for R.
@@ -125,7 +125,7 @@ Ok, this are no packages, but you also need one.
 
 
 # Finance
-- [quantmod]()
+- [quantmod](https://cran.r-project.org/web/packages/quantmod/). Specify, build, trade, and analyse quantitative financial trading strategies.
 - [blotter](https://r-forge.r-project.org/scm/viewvc.php/pkg/blotter/?root=blotter). 
 - [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/). Econometric Tools for Performance and Risk Analysis.
 - [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
