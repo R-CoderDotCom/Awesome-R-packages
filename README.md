@@ -101,7 +101,8 @@ Ok, this are no packages, but you also need one.
 # Misc
 - [installr](https://cran.r-project.org/web/packages/installr/index.html). Automate the updating of R and install new software.
 - [plumber](https://cran.r-project.org/web/packages/plumber/index.html). An API Generator for R.
-
+- [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). install package versions from a specific date in the past.
+- [mailR](https://cran.r-project.org/web/packages/mailR/). A Utility to Send Emails from R.
 
 # Graphics
 
@@ -116,6 +117,11 @@ Ok, this are no packages, but you also need one.
 - [r2d3](https://github.com/rstudio/r2d3). Provides a suite of tools for using D3 visualizations with R.
 - [RGL](https://cran.r-project.org/web/packages/rgl/). Provides medium to high level functions for 3D interactive graphics, including functions modelled on base graphics (plot3d(), etc.) as well as functions for constructing representations of geometric objects.
 - [dygraphs](https://cran.r-project.org/web/packages/dygraphs/). An R interface to the 'dygraphs' JavaScript charting library.
+- [gganatogram](https://github.com/jespermaag/gganatogram). Create anatograms using ggplot2.
+
+## Maps
+- [tmap](https://github.com/mtennekes/tmap). Drawing thematic maps in R.
+
 
 
 # Finance
@@ -145,7 +151,7 @@ Ok, this are no packages, but you also need one.
 - [raptors animation](https://github.com/imjakedaniels/raptors_animation). Using gganimate to bounce emoji basketballs over the course of a game. 
 - [brownianbridge](https://github.com/djnavarro/brownianbridge). Contains scripts used to draw various "Brownian bridge" animations that to explore some of the functionality of the gganimate package.
 - [pushoverr](https://cran.r-project.org/web/packages/pushoverr/index.html). Send push notifications from R to mobile devices or the desktop. These notifications can display job status, results, scraped web data, or any other text or numeric data.
-
+- [BRRR](https://github.com/brooke-watson/BRRR). Let Gucci Mane tell you when your script is done.
 
 More soon...
 
