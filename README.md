@@ -29,7 +29,7 @@ Some visual examples:
   
   <td style="text-align: center">
    <a href="https://github.com/tylermorganwall/rayshader">
-    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400" height = "500"/></a>
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400"/></a>
   </td>
 
   <td style="text-align: center">
