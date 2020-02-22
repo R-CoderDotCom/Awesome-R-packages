@@ -38,7 +38,24 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
   </td>
   
 </tr></table></div>
+<div style="text-align: center"><table><tr>
+  
+  <td style="text-align: center">
+  <a href="https://github.com/dkahle/ggmap">
+    <img src="https://raw.githubusercontent.com/dkahle/ggmap/master/tools/README-styling-1.png" width="400"/></a>
+  </td>
+  
+  <td style="text-align: center">
+   <a href="https://github.com/tylermorganwall/rayshader">
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/smallhobart.gif" width="400"/></a>
+  </td>
 
+  <td style="text-align: center">
+  <a href="https://github.com/tylermorganwall/rayshader">
+    <img src="https://github.com/tylermorganwall/rayshader/blob/master/man/figures/README_ggplots_5-1.png" width="400"/></a>
+  </td>
+  
+</tr></table></div>
 
 # Index
 
