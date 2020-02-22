@@ -52,7 +52,7 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
   </td>
 
   <td style="text-align: center">
-  <a href="https://github.com/tylermorganwall/rayshader">
+  <a href="https://github.com/YinLiLin/R-CMplot">
     <img src="https://raw.githubusercontent.com/YinLiLin/R-CMplot/master/Figure/9.jpg" width="400"/></a>
   </td>
   
