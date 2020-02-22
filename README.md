@@ -96,6 +96,6 @@ A curated list 📄 of awesome 🌟 R packages. These are some of the most relev
 - [Fortunes](https://cran.r-project.org/web/packages/fortunes/). A collection of fortunes from the R community.
 - [cowsay](https://github.com/sckott/cowsay). ASCII art animals in R console.
 - [drumr](https://github.com/jamesmartherus/drumr). Turn R into a Drum Machine. 
-
+- [ggphysics](https://github.com/chang/ggphysics). Physics animations in ggplot2, just for fun. 
 
 
