@@ -117,7 +117,7 @@ Ok, this are no packages, but you also need one.
 - [Shiny](https://cran.r-project.org/web/packages/shiny/index.html). Interactive web applications with R. Automatic "reactive" binding between inputs and outputs and extensive prebuilt widgets make it possible to build beautiful, responsive, and powerful applications with minimal effort.
 - [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.html). Format for converting an R Markdown document to a grid oriented dashboard. The dashboard flexibly adapts the size of it's components to the containing web page.
 - [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html). Create dashboards with 'Shiny'. This package provides a theme on top of 'Shiny', making it easy to create attractive dashboards.
-
+- [shinythemes](https://cran.r-project.org/web/packages/shinythemes/). Themes for use with Shiny. Includes several Bootstrap themesfrom <http://bootswatch.com/>, which are packaged for use with Shinyapplications.
 
 
 
