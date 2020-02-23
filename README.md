@@ -64,6 +64,8 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 # Index
 
 - [IDE](#IDE) 
+- [Misc](#Misc)
+- [Data import](#Data-import)
 - [Graphics](#Graphics)
 - [Finance](#Finance)
 - [Functional data](#Functional-data)
@@ -71,7 +73,6 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [Regression]()
 - [Web scraping](#Web-scraping)
 - [Fun stuff](#Fun-stuff)
-
 
 More soon...
 
@@ -98,13 +99,17 @@ Ok, this are no packages, but you also need one.
 - [RTVS](). R Tools for Visual Studio.
 - [radian (formerly rtichoke)](). An alternative console for the R program with multiline editing and rich syntax highlight.
 
-
 # Misc
 - [installr](https://cran.r-project.org/web/packages/installr/index.html). Automate the updating of R and install new software.
 - [plumber](https://cran.r-project.org/web/packages/plumber/index.html). An API Generator for R.
 - [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). Install package versions from a specific date in the past.
 - [mailR](https://cran.r-project.org/web/packages/mailR/). A utility to send emails from R.
 
+# Data import
+- [readxl]()
+- [readr]()
+- [datapasta]()
+- [jsonlite]()
 
 # Graphics
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
@@ -122,7 +127,6 @@ Ok, this are no packages, but you also need one.
 
 ## Maps
 - [tmap](https://github.com/mtennekes/tmap). Drawing thematic maps in R.
-
 
 
 # Finance
@@ -153,6 +157,7 @@ Ok, this are no packages, but you also need one.
 - [rvest](https://cran.r-project.org/web/packages/rvest/). Easily Harvest (Scrape) Web Pages.
 - [XML](https://cran.r-project.org/web/packages/XML/). Many approaches for both reading and creating XML (and HTML) documents (including DTDs), both local and accessible via HTTP or FTP. Also offers access to an 'XPath' "interpreter".
 - [Rselenium](https://cran.r-project.org/web/packages/RSelenium/). Provides a set of R bindings for the 'Selenium 2.0 WebDriver' using the 'JsonWireProtocol' 
+- [httr](https://cran.r-project.org/web/packages/httr/index.html). Useful tools for working with HTTP organised by HTTP verbs (GET(), POST(), etc).
 
 # Fun stuff
 
