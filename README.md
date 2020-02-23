@@ -66,6 +66,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [IDE](#IDE) 
 - [Misc](#Misc)
 - [Data import](#Data-import)
+- [Dashboards](#Dashboards)
 - [Graphics](#Graphics)
 - [Finance](#Finance)
 - [Functional data](#Functional-data)
@@ -104,12 +105,21 @@ Ok, this are no packages, but you also need one.
 - [plumber](https://cran.r-project.org/web/packages/plumber/index.html). An API Generator for R.
 - [checkpoint](https://cran.r-project.org/web/packages/checkpoint/index.html). Install package versions from a specific date in the past.
 - [mailR](https://cran.r-project.org/web/packages/mailR/). A utility to send emails from R.
+- [pacman](https://cran.r-project.org/web/packages/pacman/index.html). Tools to more conveniently perform tasks associated with add-on packages. pacman conveniently wraps library and package related functions and names them in an intuitive and consistent fashion. It seeks to combine functionality from lower level functions which can speed up workflow.
 
 # Data import
 - [readxl]()
 - [readr]()
 - [datapasta]()
 - [jsonlite]()
+
+# Dashboards
+- [Shiny](https://cran.r-project.org/web/packages/shiny/index.html). Interactive web applications with R. Automatic "reactive" binding between inputs and outputs and extensive prebuilt widgets make it possible to build beautiful, responsive, and powerful applications with minimal effort.
+- [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.html). Format for converting an R Markdown document to a grid oriented dashboard. The dashboard flexibly adapts the size of it's components to the containing web page.
+- [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html). Create dashboards with 'Shiny'. This package provides a theme on top of 'Shiny', making it easy to create attractive dashboards.
+
+
+
 
 # Graphics
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
@@ -127,7 +137,6 @@ Ok, this are no packages, but you also need one.
 
 ## Maps
 - [tmap](https://github.com/mtennekes/tmap). Drawing thematic maps in R.
-
 
 # Finance
 - [quantmod](https://cran.r-project.org/web/packages/quantmod/). Specify, build, trade, and analyse quantitative financial trading strategies.
@@ -153,14 +162,12 @@ Ok, this are no packages, but you also need one.
 - [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
 
 # Web scraping
-
 - [rvest](https://cran.r-project.org/web/packages/rvest/). Easily Harvest (Scrape) Web Pages.
 - [XML](https://cran.r-project.org/web/packages/XML/). Many approaches for both reading and creating XML (and HTML) documents (including DTDs), both local and accessible via HTTP or FTP. Also offers access to an 'XPath' "interpreter".
 - [Rselenium](https://cran.r-project.org/web/packages/RSelenium/). Provides a set of R bindings for the 'Selenium 2.0 WebDriver' using the 'JsonWireProtocol' 
 - [httr](https://cran.r-project.org/web/packages/httr/index.html). Useful tools for working with HTTP organised by HTTP verbs (GET(), POST(), etc).
 
 # Fun stuff
-
 - [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
 - [fun](https://cran.rstudio.com/web/packages/fun/). Collection of R games and other funny stuff, such as the classic Mine sweeper and sliding puzzles.
 - [Fortunes](https://cran.r-project.org/web/packages/fortunes/). A collection of fortunes from the R community.
@@ -173,6 +180,8 @@ Ok, this are no packages, but you also need one.
 - [BRRR](https://github.com/brooke-watson/BRRR). Let Gucci Mane tell you when your script is done.
 - [meme](https://cran.r-project.org/web/packages/meme/index.html). Create memes in R.
 - [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html). Plotting ggplot2 Graphics in an XKCD Style.
+- [beepr](https://cran.r-project.org/web/packages/beepr/index.html). The main function of this package is beep(), with the purpose to make it easy to play notification sounds on whatever platform you are on. It is intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready.
+- []
 
 More soon...
 
