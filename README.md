@@ -140,6 +140,11 @@ Ok, this are no packages, but you also need one.
 - [rainbow](https://cran.r-project.org/web/packages/rainbow/index.html). Bagplots, Boxplots and Rainbow Plots for Functional Data.
 - [roahd](https://cran.r-project.org/web/packages/roahd/index.html). A collection of methods for the robust analysis of univariate and multivariate functional data, possibly in high-dimensional cases, and hence with attention to computational efficiency and simplicity of use.
 
+# Regression
+- [car](https://cran.r-project.org/web/packages/car/index.html). Functions to Accompany J. Fox and S. Weisberg,An R Companion to Applied Regression, Third Edition, Sage, 2019.
+
+# Optimization
+- [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
 
 # Web scraping
 
