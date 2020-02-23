@@ -148,6 +148,9 @@ Ok, this are no packages, but you also need one.
 - [quanstrat](https://github.com/braverock/quantstrat). Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
 - [FinancialInstrument](https://cran.r-project.org/web/packages/FinancialInstrument/index.html). Infrastructure for defining meta-data and relationships for financial instruments.
 - [PortfolioAnalytics](https://cran.r-project.org/web/packages/PortfolioAnalytics/). Portfolio optimization and analysis routines and graphics.
+- [RQuantLib](https://cran.r-project.org/web/packages/RQuantLib/index.html). Provide a standard open source library for quantitative analysis, modeling, trading, and risk management of financial assets.
+- [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html). Classes for analysing and implementing equity portfolios.
+- [TTR](https://cran.r-project.org/web/packages/TTR/index.html). Technical Trading Rules.
 
 # Functional data
 - [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
