@@ -142,6 +142,8 @@ Ok, this are no packages, but you also need one.
 
 # Regression
 - [car](https://cran.r-project.org/web/packages/car/index.html). Functions to Accompany J. Fox and S. Weisberg,An R Companion to Applied Regression, Third Edition, Sage, 2019.
+- [quantreg](https://cran.r-project.org/web/packages/quantreg/). Estimation and inference methods for models of conditional quantiles.
+- [np](https://cran.r-project.org/web/packages/np/). Nonparametric (and semiparametric) kernel methods that seamlessly handle a mix of continuous, unordered, and ordered factor data types. 
 
 # Optimization
 - [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
