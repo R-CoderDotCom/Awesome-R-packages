@@ -108,18 +108,16 @@ Ok, this are no packages, but you also need one.
 - [pacman](https://cran.r-project.org/web/packages/pacman/index.html). Tools to more conveniently perform tasks associated with add-on packages. pacman conveniently wraps library and package related functions and names them in an intuitive and consistent fashion. It seeks to combine functionality from lower level functions which can speed up workflow.
 
 # Data import
-- [readxl]()
-- [readr]()
-- [datapasta]()
-- [jsonlite]()
+- [readxl](https://cran.r-project.org/web/packages/readxl/). Import excel files into R.
+- [readr](https://cran.r-project.org/web/packages/readr/). Provide a fast and friendly way to read rectangular data (like 'csv', 'tsv', and 'fwf'). It is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data unexpectedly changes.
+- [datapasta](https://cran.r-project.org/web/packages/datapasta/). RStudio addins and R functions that make copy-pasting vectors and tables to text painless.
+- [jsonlite](https://cran.r-project.org/web/packages/jsonlite/). A fast JSON parser and generator optimized for statistical data and the web.
 
 # Dashboards
 - [Shiny](https://cran.r-project.org/web/packages/shiny/index.html). Interactive web applications with R. Automatic "reactive" binding between inputs and outputs and extensive prebuilt widgets make it possible to build beautiful, responsive, and powerful applications with minimal effort.
 - [flexdashboard](https://cran.r-project.org/web/packages/flexdashboard/index.html). Format for converting an R Markdown document to a grid oriented dashboard. The dashboard flexibly adapts the size of it's components to the containing web page.
 - [shinydashboard](https://cran.r-project.org/web/packages/shinydashboard/index.html). Create dashboards with 'Shiny'. This package provides a theme on top of 'Shiny', making it easy to create attractive dashboards.
 - [shinythemes](https://cran.r-project.org/web/packages/shinythemes/). Themes for use with Shiny. Includes several Bootstrap themesfrom <http://bootswatch.com/>, which are packaged for use with Shinyapplications.
-
-
 
 # Graphics
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
