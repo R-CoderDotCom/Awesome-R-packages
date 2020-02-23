@@ -181,7 +181,9 @@ Ok, this are no packages, but you also need one.
 - [meme](https://cran.r-project.org/web/packages/meme/index.html). Create memes in R.
 - [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html). Plotting ggplot2 Graphics in an XKCD Style.
 - [beepr](https://cran.r-project.org/web/packages/beepr/index.html). The main function of this package is beep(), with the purpose to make it easy to play notification sounds on whatever platform you are on. It is intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready.
-- []
+- [twitteR](https://cran.r-project.org/web/packages/twitteR/). Send Tweets from R.
+- [CatterPlots](https://github.com/Gibbsdavidl/CatterPlots). Cat themed scatter plots.
+
 
 More soon...
 
