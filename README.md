@@ -144,6 +144,10 @@ Ok, this are no packages, but you also need one.
 - [PerformanceAnalytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/). Econometric Tools for Performance and Risk Analysis.
 - [EliteQuant_R](https://github.com/EliteQuant/EliteQuant_R). R based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions.
 - [zoo](https://cran.r-project.org/web/packages/zoo/). S3 Infrastructure for Regular and Irregular Time Series.
+- [FactorAnalytics](https://github.com/braverock/FactorAnalytics). Linear factor model fitting for asset returns.
+- [quanstrat](https://github.com/braverock/quantstrat). Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+- [FinancialInstrument](https://cran.r-project.org/web/packages/FinancialInstrument/index.html). Infrastructure for defining meta-data and relationships for financial instruments.
+- [PortfolioAnalytics](https://cran.r-project.org/web/packages/PortfolioAnalytics/). Portfolio optimization and analysis routines and graphics.
 
 # Functional data
 - [fda](https://cran.r-project.org/web/packages/fda/). Set of functions developed to support functional data analysis as described in Ramsay, J. O. and Silverman, B. W. (2005) Functional Data Analysis. New York: Springer.
