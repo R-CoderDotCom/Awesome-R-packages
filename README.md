@@ -171,6 +171,8 @@ Ok, most of them are no packages, but you also need one.
 - [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
 
 # Spatial statistics
+- [sp](https://cran.r-project.org/web/packages/sp/). Classes and methods for spatial data; the classes document where the spatial location information resides, for 2D or 3D data. Utility functions are provided, e.g. for plotting data as maps, spatial selection, as well as methods for retrieving coordinates, for subsetting, print, summary, etc.
+- [sf](https://cran.r-project.org/web/packages/sf/index.html). Support for simple features, a standardized way to encode spatial vector data. Binds to 'GDAL' for reading and writing data, to 'GEOS' for geometrical operations, and to 'PROJ' for projection conversions and datum transformations.
 - [npsp](https://cran.r-project.org/web/packages/npsp/index.html). Multidimensional nonparametric spatio-temporal (geo)statistics.
 
 
