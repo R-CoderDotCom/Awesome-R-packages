@@ -73,6 +73,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [Optimization]()
 - [Regression]()
 - [Web scraping](#Web-scraping)
+- [Packages development](#Packages-development)
 - [Fun stuff](#Fun-stuff)
 
 More soon...
@@ -172,6 +173,13 @@ Ok, most of them are no packages, but you also need one.
 - [Rselenium](https://cran.r-project.org/web/packages/RSelenium/). Provides a set of R bindings for the 'Selenium 2.0 WebDriver' using the 'JsonWireProtocol' 
 - [httr](https://cran.r-project.org/web/packages/httr/index.html). Useful tools for working with HTTP organised by HTTP verbs (GET(), POST(), etc).
 
+
+# Packages development
+- [usethis](https://cran.r-project.org/web/packages/usethis/). Automate package and project setup tasks that are otherwise performed manually. 
+- [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html). Generate an attractive and useful website from a source package. 
+- [roxygen2](https://cran.r-project.org/web/packages/roxygen2/). Generate your Rd documentation, 'NAMESPACE' file, and collation field using specially formatted comments.
+- [devtools](https://cran.r-project.org/web/packages/devtools/). Tools to Make Developing R Packages Easier.
+
 # Fun stuff
 - [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
 - [fun](https://cran.rstudio.com/web/packages/fun/). Collection of R games and other funny stuff, such as the classic Mine sweeper and sliding puzzles.
@@ -188,6 +196,8 @@ Ok, most of them are no packages, but you also need one.
 - [beepr](https://cran.r-project.org/web/packages/beepr/index.html). The main function of this package is beep(), with the purpose to make it easy to play notification sounds on whatever platform you are on. It is intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready.
 - [twitteR](https://cran.r-project.org/web/packages/twitteR/). Send Tweets from R.
 - [CatterPlots](https://github.com/Gibbsdavidl/CatterPlots). Cat themed scatter plots.
+
+
 
 
 More soon...
