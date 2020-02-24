@@ -127,8 +127,6 @@ Ok, most of them are no packages, but you also need one.
 - [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html). An implementation of an interactive grammar of graphics, taking the best parts of 'ggplot2', combining them with the reactive framework of 'shiny' and drawing web graphics using 'vega'.
 - [Lattice](https://cran.r-project.org/web/packages/lattice/index.html). Trellis Graphics for R.
 - [highcharter](https://cran.r-project.org/web/packages/highcharter). A wrapper for the 'Highcharts' library including shortcut functions to plot R objects.
-- [Leaflet](https://cran.r-project.org/web/packages/leaflet/). Create and customize interactive maps using the 'Leaflet' JavaScript library and the 'htmlwidgets' package. 
-- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html). Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described [here](http://colorbrewer2.org).
 - [Plotly](https://cran.r-project.org/web/packages/plotly/). Create interactive web graphics from 'ggplot2' graphs and/or a custom interface to the (MIT-licensed) JavaScript library 'plotly.js' inspired by the grammar of graphics.
 - [sunburstR](https://cran.r-project.org/web/packages/sunburstR/). Make interactive 'd3.js' sequence sunburst diagrams in R with the convenience and infrastructure of an 'htmlwidget'.
 - [r2d3](https://github.com/rstudio/r2d3). Provides a suite of tools for using D3 visualizations with R.
@@ -138,6 +136,8 @@ Ok, most of them are no packages, but you also need one.
 
 ## Maps
 - [tmap](https://github.com/mtennekes/tmap). Drawing thematic maps in R.
+- [Leaflet](https://cran.r-project.org/web/packages/leaflet/). Create and customize interactive maps using the 'Leaflet' JavaScript library and the 'htmlwidgets' package. 
+- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html). Provides color schemes for maps (and other graphics) designed by Cynthia Brewer as described [here](http://colorbrewer2.org).
 
 # Finance
 - [quantmod](https://cran.r-project.org/web/packages/quantmod/). Specify, build, trade, and analyse quantitative financial trading strategies.
