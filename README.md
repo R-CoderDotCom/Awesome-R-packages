@@ -186,6 +186,7 @@ Ok, most of them are no packages, but you also need one.
 - [pkgdown](https://cran.r-project.org/web/packages/pkgdown/index.html). Generate an attractive and useful website from a source package. 
 - [roxygen2](https://cran.r-project.org/web/packages/roxygen2/). Generate your Rd documentation, 'NAMESPACE' file, and collation field using specially formatted comments.
 - [devtools](https://cran.r-project.org/web/packages/devtools/). Tools to Make Developing R Packages Easier.
+- [profvis](https://cran.r-project.org/web/packages/profvis/index.html). Interactive Visualizations for Profiling R Code.
 
 # Fun stuff
 - [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
