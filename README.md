@@ -122,6 +122,7 @@ Ok, most of them are no packages, but you also need one.
 
 # Graphics
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
+- [GGally](https://cran.r-project.org/web/packages/GGally/). Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
 - [ggvis](https://cran.r-project.org/web/packages/ggvis/index.html). An implementation of an interactive grammar of graphics, taking the best parts of 'ggplot2', combining them with the reactive framework of 'shiny' and drawing web graphics using 'vega'.
 - [Lattice](https://cran.r-project.org/web/packages/lattice/index.html). Trellis Graphics for R.
 - [highcharter](https://cran.r-project.org/web/packages/highcharter). A wrapper for the 'Highcharts' library including shortcut functions to plot R objects.
