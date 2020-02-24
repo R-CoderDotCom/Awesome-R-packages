@@ -70,8 +70,9 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 - [Graphics](#Graphics)
 - [Finance](#Finance)
 - [Functional data](#Functional-data)
+- [Regression](#Regression)
 - [Optimization]()
-- [Regression]()
+- [Spatial statistics](#Spatial-statistics)
 - [Web scraping](#Web-scraping)
 - [Packages development](#Packages-development)
 - [Fun stuff](#Fun-stuff)
@@ -164,9 +165,14 @@ Ok, most of them are no packages, but you also need one.
 - [car](https://cran.r-project.org/web/packages/car/index.html). Functions to Accompany J. Fox and S. Weisberg,An R Companion to Applied Regression, Third Edition, Sage, 2019.
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/). Estimation and inference methods for models of conditional quantiles.
 - [np](https://cran.r-project.org/web/packages/np/). Nonparametric (and semiparametric) kernel methods that seamlessly handle a mix of continuous, unordered, and ordered factor data types. 
+- [FWDselect](https://cran.r-project.org/web/packages/FWDselect/). A simple method to select the best model or best subset of variables using different types of data (binary, Gaussian or Poisson) and applying it in different contexts (parametric or non-parametric).
 
 # Optimization
 - [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
+
+# Spatial statistics
+- [npsp](https://cran.r-project.org/web/packages/npsp/index.html). Multidimensional nonparametric spatio-temporal (geo)statistics.
+
 
 # Web scraping
 - [rvest](https://cran.r-project.org/web/packages/rvest/). Easily Harvest (Scrape) Web Pages.
