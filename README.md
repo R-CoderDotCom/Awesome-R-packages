@@ -21,7 +21,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
 
 😍 Is your favourite package missing? 😍  Let me know! 🤔
 
-## Some visual examples of what R is able to do
+## Some visual examples of what R is able to do - Awesome R packages
 
 <div style="text-align: center"><table><tr>
   
