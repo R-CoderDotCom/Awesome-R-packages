@@ -163,6 +163,10 @@ Ok, most of them are no packages, but you also need one.
 
 # Regression
 - [car](https://cran.r-project.org/web/packages/car/index.html). Functions to Accompany J. Fox and S. Weisberg,An R Companion to Applied Regression, Third Edition, Sage, 2019.
+- [MASS](https://cran.r-project.org/web/packages/MASS/). Support Functions and Datasets for Venables and Ripley's MASS.
+- [caret](https://cran.r-project.org/web/packages/caret/). Misc functions for training and plotting classification and regression models.
+- [glmnet](https://cran.r-project.org/web/packages/glmnet/). Lasso and Elastic-Net Regularized Generalized Linear Models.
+- [xgboost](https://cran.r-project.org/web/packages/xgboost/). Includes efficient linear model solver and tree learning algorithms, it can automatically do parallel computation on a single machine which could be more than 10 times faster than existing gradient boosting packages. It supports various objective functions, including regression, classification and ranking. 
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/). Estimation and inference methods for models of conditional quantiles.
 - [np](https://cran.r-project.org/web/packages/np/). Nonparametric (and semiparametric) kernel methods that seamlessly handle a mix of continuous, unordered, and ordered factor data types. 
 - [effects](https://cran.r-project.org/web/packages/effects/index.html).  Effect Displays for Linear, Generalized Linear, and Other Models.
