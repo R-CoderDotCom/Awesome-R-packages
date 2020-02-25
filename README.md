@@ -165,6 +165,8 @@ Ok, most of them are no packages, but you also need one.
 - [car](https://cran.r-project.org/web/packages/car/index.html). Functions to Accompany J. Fox and S. Weisberg,An R Companion to Applied Regression, Third Edition, Sage, 2019.
 - [quantreg](https://cran.r-project.org/web/packages/quantreg/). Estimation and inference methods for models of conditional quantiles.
 - [np](https://cran.r-project.org/web/packages/np/). Nonparametric (and semiparametric) kernel methods that seamlessly handle a mix of continuous, unordered, and ordered factor data types. 
+- [effects](https://cran.r-project.org/web/packages/effects/index.html).  Effect Displays for Linear, Generalized Linear, and Other Models.
+- [lme4](https://cran.r-project.org/web/packages/lme4/). Fit linear and generalized linear mixed-effects models. The models and their components are represented using S4 classes and methods.
 - [FWDselect](https://cran.r-project.org/web/packages/FWDselect/). A simple method to select the best model or best subset of variables using different types of data (binary, Gaussian or Poisson) and applying it in different contexts (parametric or non-parametric).
 
 # Optimization
