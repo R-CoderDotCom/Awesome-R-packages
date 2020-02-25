@@ -131,6 +131,7 @@ Ok, most of them are no packages, but you also need one.
 - [sunburstR](https://cran.r-project.org/web/packages/sunburstR/). Make interactive 'd3.js' sequence sunburst diagrams in R with the convenience and infrastructure of an 'htmlwidget'.
 - [r2d3](https://github.com/rstudio/r2d3). Provides a suite of tools for using D3 visualizations with R.
 - [RGL](https://cran.r-project.org/web/packages/rgl/). Provides medium to high level functions for 3D interactive graphics, including functions modelled on base graphics (plot3d(), etc.) as well as functions for constructing representations of geometric objects.
+- [magick](https://cran.r-project.org/web/packages/magick). Advanced Graphics and Image-Processing in R.
 - [dygraphs](https://cran.r-project.org/web/packages/dygraphs/). An R interface to the 'dygraphs' JavaScript charting library.
 - [gganatogram](https://github.com/jespermaag/gganatogram). Create anatograms using ggplot2.
 
