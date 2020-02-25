@@ -50,7 +50,7 @@ This is a curated list 📄 of awesome 🌟 R packages 🌟. These are some of t
   </td>
   
   <td style="text-align: center">
-   <a href="https://raw.githubusercontent.com/amrrs/animated_bar_charts_in_R">
+   <a href="https://github.com/amrrs/animated_bar_charts_in_R">
     <img src="https://raw.githubusercontent.com/amrrs/animated_bar_charts_in_R/master/gganim.gif" width="400"/></a>
   </td>
 
