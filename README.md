@@ -174,7 +174,9 @@ Ok, most of them are no packages, but you also need one.
 - [FWDselect](https://cran.r-project.org/web/packages/FWDselect/). A simple method to select the best model or best subset of variables using different types of data (binary, Gaussian or Poisson) and applying it in different contexts (parametric or non-parametric).
 
 # Optimization
+- [optimization](https://cran.r-project.org/web/packages/optimization/). Flexible Optimization of Complex Loss Functions with State and Parameter Space Constraints.
 - [lpSolve](https://cran.r-project.org/web/packages/lpSolve). Interface to 'Lp_solve' v. 5.5 to Solve Linear/Integer Programs.
+- [lpSolveAPI](https://cran.r-project.org/web/packages/lpSolveAPI/index.html). Provides an R interface to 'lp_solve', a Mixed Integer Linear Programming (MILP) solver with support for pure linear, (mixed) integer/binary, semi-continuous and special ordered sets (SOS) models.
 
 # Spatial statistics
 - [sp](https://cran.r-project.org/web/packages/sp/). Classes and methods for spatial data; the classes document where the spatial location information resides, for 2D or 3D data. Utility functions are provided, e.g. for plotting data as maps, spatial selection, as well as methods for retrieving coordinates, for subsetting, print, summary, etc.
