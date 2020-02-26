@@ -110,7 +110,7 @@ Ok, most of them are no packages, but you also need one.
 - [pacman](https://cran.r-project.org/web/packages/pacman/index.html). Tools to more conveniently perform tasks associated with add-on packages. pacman conveniently wraps library and package related functions and names them in an intuitive and consistent fashion. It seeks to combine functionality from lower level functions which can speed up workflow.
 
 # Data import
-- [readxl](https://cran.r-project.org/web/packages/readxl/) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/readxl)]. Import excel files into R.
+- [readxl](https://cran.r-project.org/web/packages/readxl/) ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/readxl). Import excel files into R.
 - [readr](https://cran.r-project.org/web/packages/readr/). Provide a fast and friendly way to read rectangular data (like 'csv', 'tsv', and 'fwf'). It is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data unexpectedly changes.
 - [datapasta](https://cran.r-project.org/web/packages/datapasta/). RStudio addins and R functions that make copy-pasting vectors and tables to text painless.
 - [jsonlite](https://cran.r-project.org/web/packages/jsonlite/). A fast JSON parser and generator optimized for statistical data and the web.
