@@ -109,6 +109,7 @@ Ok, most of them are no packages, but you also need one.
 - [mailR](https://cran.r-project.org/web/packages/mailR/). A utility to send emails from R.
 - [pacman](https://cran.r-project.org/web/packages/pacman/index.html). Tools to more conveniently perform tasks associated with add-on packages. pacman conveniently wraps library and package related functions and names them in an intuitive and consistent fashion. It seeks to combine functionality from lower level functions which can speed up workflow.
 - [askpass](https://cran.r-project.org/web/packages/askpass/index.html). Cross-platform utilities for prompting the user for credentials or a passphrase, for example to authenticate with a server or read a protected key.
+- [rsconnect](https://cran.r-project.org/web/packages/rsconnect/index.html). Deployment Interface for R Markdown Documents and Shiny Applications.
 
 # Data import
 - [readxl](https://cran.r-project.org/web/packages/readxl/) ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/readxl). Import excel files into R.
