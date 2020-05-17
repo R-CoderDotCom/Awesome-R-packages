@@ -194,6 +194,8 @@ Ok, most of them are no packages, but you also need one.
 - [Rselenium](https://cran.r-project.org/web/packages/RSelenium/). Provides a set of R bindings for the 'Selenium 2.0 WebDriver' using the 'JsonWireProtocol' 
 - [httr](https://cran.r-project.org/web/packages/httr/index.html). Useful tools for working with HTTP organised by HTTP verbs (GET(), POST(), etc).
 
+# Computer vision
+https://jeroen.github.io/munster2018/#26
 
 # Packages development
 - [usethis](https://cran.r-project.org/web/packages/usethis/). Automate package and project setup tasks that are otherwise performed manually. 
