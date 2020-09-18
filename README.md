@@ -112,8 +112,8 @@ Ok, most of them are no packages, but you also need one.
 - [rsconnect](https://cran.r-project.org/web/packages/rsconnect/index.html). Deployment Interface for R Markdown Documents and Shiny Applications.
 
 # Data import
-- [readxl](https://cran.r-project.org/web/packages/readxl/) ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/readxl). Import excel files into R.
-- ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/readr) [readr](https://cran.r-project.org/web/packages/readr/). Provide a fast and friendly way to read rectangular data (like 'csv', 'tsv', and 'fwf'). It is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data unexpectedly changes.
+- [readxl](https://cran.r-project.org/web/packages/readxl/). Import excel files into R.
+- [readr](https://cran.r-project.org/web/packages/readr/). Provide a fast and friendly way to read rectangular data (like 'csv', 'tsv', and 'fwf'). It is designed to flexibly parse many types of data found in the wild, while still cleanly failing when data unexpectedly changes.
 - [datapasta](https://cran.r-project.org/web/packages/datapasta/). RStudio addins and R functions that make copy-pasting vectors and tables to text painless.
 - [jsonlite](https://cran.r-project.org/web/packages/jsonlite/). A fast JSON parser and generator optimized for statistical data and the web.
 
@@ -124,6 +124,7 @@ Ok, most of them are no packages, but you also need one.
 - [shinythemes](https://cran.r-project.org/web/packages/shinythemes/). Themes for use with Shiny. Includes several Bootstrap themesfrom <http://bootswatch.com/>, which are packaged for use with Shinyapplications.
 
 # Graphics
+- [calendR](https://cran.r-project.org/web/packages/calendR/). Contains the function calendR() for creating fully customizable monthly and yearly calendars. In addition, it allows saving the calendars in ready to print A4 format PDF files.
 - [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html). A system for 'declaratively' creating graphics, based on "The Grammar of Graphics".
 - [ggstatsplot](https://cran.r-project.org/web/packages/ggstatsplot/index.html). Extension of 'ggplot2' that creates graphics with details from statistical tests included in the plots themselves. 
 - [GGally](https://cran.r-project.org/web/packages/GGally/). Extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
