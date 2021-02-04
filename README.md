@@ -206,6 +206,8 @@ https://jeroen.github.io/munster2018/#26
 - [profvis](https://cran.r-project.org/web/packages/profvis/index.html). Interactive Visualizations for Profiling R Code.
 
 # Fun stuff
+- [ggcats](https://github.com/R-CoderDotCom/ggcats). The geom you always wished for adding cats to ggplot2.
+- [ggbernie](https://github.com/R-CoderDotCom/ggbernie). A ggplot2 geom for adding Bernie Sanders to ggplot2.
 - [TurtleGraphics](https://cran.r-project.org/web/packages/TurtleGraphics/) - An R implementation of vector graphics using a relative cursor (the "turtle") upon a Cartesian plane.
 - [fun](https://cran.rstudio.com/web/packages/fun/). Collection of R games and other funny stuff, such as the classic Mine sweeper and sliding puzzles.
 - [Fortunes](https://cran.r-project.org/web/packages/fortunes/). A collection of fortunes from the R community.
